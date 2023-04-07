@@ -1,5 +1,7 @@
 body {
   background-color: #eaf6f6;
+  max-width: 60%;
+  margin: auto;
 }
 
 hr {
